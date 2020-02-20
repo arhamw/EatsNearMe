@@ -3,4 +3,7 @@ An android app that provides the user with information about special deals for r
 
 This app was created for Hack the valley IV
 
-![](Screenshots/FrontPage.png)
+**Screenshots**
+![](Screenshots/FrontPage.jpg)
+![](Screenshots/gallery.jpg)
+![](Screenshots/MenuItems.jpg)
